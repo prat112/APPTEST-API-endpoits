@@ -1,4 +1,4 @@
-![Screenshot (276)](https://github.com/prat112/APPTEST-API-endpoits/assets/73698790/c85d77f8-9117-456b-8791-84b1c825bc50)# APPTEST-API-endpoits
+
 To test the API endpoints you created using Postman, follow these steps:
 
 GET Method: Retrieve Data
